@@ -1,0 +1,15 @@
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\LapStore\source\repos\Demo MVC\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
