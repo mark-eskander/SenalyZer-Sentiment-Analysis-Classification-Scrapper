@@ -1,0 +1,1 @@
+We trained the Transformer model using subset of the data, because the resources limitations on kaggle
