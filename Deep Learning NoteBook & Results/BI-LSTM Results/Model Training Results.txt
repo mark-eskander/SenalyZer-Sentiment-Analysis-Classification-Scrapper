@@ -1,0 +1,36 @@
+Model Training Results
+The model was trained for 4 epochs with the early stopping callback monitoring the validation accuracy. Below are the results for each epoch:
+Epoch 1/4
+•	Loss: 0.2461
+•	Accuracy: 0.8979
+•	Precision: 0.8969
+•	Recall: 0.8993
+•	F1: 0.8979
+•	Validation Loss: 0.2209
+•	Validation Accuracy: 0.9101
+•	Validation Precision: 0.9143
+•	Validation Recall: 0.9049
+•	Validation F1: 0.9011
+Epoch 2/4
+•	Loss: 0.2035
+•	Accuracy: 0.9187
+•	Precision: 0.9178
+•	Recall: 0.9200
+•	F1: 0.9191
+•	Validation Loss: 0.2162
+•	Validation Accuracy: 0.9124
+•	Validation Precision: 0.9094
+•	Validation Recall: 0.9161
+•	Validation F1: 0.9126
+
+•	Epoch 3/4
+•	Loss: 0.1826
+•	Accuracy: 0.9282
+•	Precision: 0.9274
+•	Recall: 0.9293
+•	F1: 0.9287
+•	Validation Loss: 0.2208
+•	Validation Accuracy: 0.9113
+•	Validation Precision: 0.9104
+•	Validation Recall: 0.9124
+•	Validation F1: 0.9115
